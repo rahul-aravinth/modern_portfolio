@@ -317,10 +317,10 @@ main#home h1 {
   margin-top: 1rem;
 }
 .boxes div {
-  font-size: 2rem;
-  border: 3px #fff solid;
+  font-size: 1rem;
+  border: 3px #ff5f01 solid;
   padding: 1.5rem 2.5rem;
-  margin-bottom: 3rem;
+  margin-bottom: 1rem;
   transition: all 0.25s ease-out;
 }
 .boxes div:hover {
