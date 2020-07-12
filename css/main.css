@@ -424,8 +424,8 @@ main#home h1 {
   }
   .menu-branding .portrait {
     background: url("../img/portrait_small.jpg");
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
   }
   .about-info {
     grid-template-areas: "bioimage" "bio" "job1" "job2" "job2";
