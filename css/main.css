@@ -425,7 +425,7 @@ main#home h1 {
   .menu-branding .portrait {
     background: url("../img/portrait_small.jpg");
     width: 250px;
-    height: 50px;
+    height: 250px;
   }
   .about-info {
     grid-template-areas: "bioimage" "bio" "job1" "job2" "job2";
@@ -445,7 +445,7 @@ main#home h1 {
   }
   main .lg-heading {
     margin-top: 1rem;
-    font-size: 3rem;
+    font-size: 4rem;
   }
   .projects {
     grid-template-columns: 1fr;
